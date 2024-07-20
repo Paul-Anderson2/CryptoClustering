@@ -6,4 +6,4 @@ There is a known memory leak issue that affects this code. Slack Overflow helped
 
 Included the provided starter code. My code is in the file named 'Crypto_Clustering.ipynb 
 
-# Important : Charts are not shown in github and must be run in Jupyterbook to show up
+# Important : Charts are not shown in github and must be run in Jupyter Notebook to show up
