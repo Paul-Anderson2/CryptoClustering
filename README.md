@@ -5,3 +5,5 @@ In this challenge, you’ll use your knowledge of Python and unsupervised learni
 There is a known memory leak issue that affects this code. Slack Overflow helped me write code that address it. There is attribution in the code as well. 
 
 Included the provided starter code. My code is in the file named 'Crypto_Clustering.ipynb 
+
+# Important : Charts are not shown in github and must be run in Jupyterbook to show up
